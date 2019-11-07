@@ -25,8 +25,7 @@
         "symfony/form": "^3.4.19 || ^4.0",
         "symfony/http-foundation": "^3.4 || ^4.0",
         "symfony/http-kernel": "^3.4 || ^4.0",
-        "symfony/property-access": "^3.4 || ^4.0",
-        "symfony/templating": "^3.4 || ^4.0"
+        "symfony/property-access": "^3.4 || ^4.0"
     },
     "require-dev": {
         "ext-sqlite3": "*",
